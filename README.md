@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi 👋, I'm Nitin
+
+# Hi 👋, I'm Nitin Raghvan
 
 🎓 B.Tech CSE Student  
 💻 Passionate about Programming & Development  
