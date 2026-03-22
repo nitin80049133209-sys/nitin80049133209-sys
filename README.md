@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi 👋, I'm Nitin
 
-<!--
-**nitin80049133209-sys/nitin80049133209-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Passionate about Programming & Development  
+🚀 Working on NITAP official Project  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C / C++
+- DSA in C++
+- Python
+- HTML, CSS, JavaScript
+- Learning React
+- Software development
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Improving DSA
+- Learning React
+- Building real-world projects
+- 
