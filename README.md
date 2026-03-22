@@ -3,7 +3,7 @@
 
 🎓 B.Tech CSE Student  
 💻 Passionate about Programming & Development  
-🚀 Working on NITAP official Project  
+🚀 Working on NITAP official website Project  
 
 ## 🔧 Skills
 - C / C++
